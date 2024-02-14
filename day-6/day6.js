@@ -43,13 +43,13 @@ const countries = [
     m--;
   } while (m >= 0);
   
-  // Iterate 0 to n using for loop
+// Iterate 0 to n using for loop
   let n = 5;
   for (let i = 0; i <= n; i++) {
     console.log(i);
   }
   
-  // Write a loop that makes the following pattern using console.log():
+// Write a loop that makes the following pattern using console.log():
   for (let i = 1; i <= 7; i++) {
     console.log('#'.repeat(i));
   }
