@@ -74,3 +74,5 @@ console.log('30 Days of '.concat('JavaScript')); // '30 Days Of JavaScript'
 
 // Repeat '30 Days Of JavaScript' 2 times
 console.log(challenge.repeat(2)); // '30 Days Of JavaScript30 Days Of JavaScript'
+
+console.log("i just messed up my career");
